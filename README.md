@@ -8,6 +8,6 @@ Android:
  - lzham
  - Pillow
 4. Open Terminal in PyDroid3
-5. Go to folder with dump.shadow file by 'cd' command 
-6. put there 'python dump.shadow file_name -d'
+5. Go to folder with `dump.py` file by 'cd' command 
+6. put there `python dump.py file_name -d`
 
